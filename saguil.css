@@ -1,0 +1,40 @@
+<style>
+div {
+ font-family: Helvetica Neue;
+ background-color: white;
+ color: black;
+ text-decoration: underline;
+ }
+.para1 {
+color: blue;
+}
+.para2 {
+color: green;
+}
+.para3 {
+color: orange;
+}
+.para4 {
+color: purple;
+}
+
+.para5 {
+color: red;
+}
+
+.para6 {
+color: brown;
+}
+
+.para7 {
+color: teal;
+}
+
+.para8 {
+color: pink;
+}
+
+.para9 {
+color: gray;
+}
+</style>
